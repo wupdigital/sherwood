@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sherwood</string>
+    <string name="message">Tap the log button to log messages \n into the Firebase Database!</string>
+    <string name="buttonLabel">LOG</string>
+</resources>
